@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">宜居柏林</string>
+    <!--<string name="app_name">手机便民服务</string>-->
+    <string name="action_favorites">收藏</string>
+    <string name="action_favorite_done">收藏成功！</string>
+    <string name="action_favorite_fail">收藏失败！</string>
+    <string name="action_settings">设置</string>
+    <string name="action_back">返回</string>
+    <string name="status_loading">正载入数据...</string>
+    <string name="dianping_state">大众点评提供数据</string>
+    <string name="shop_page">商户页面</string>
+
+</resources>

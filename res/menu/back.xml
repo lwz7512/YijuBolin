@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	
+    <item android:id="@+id/goback"
+        android:icon="@drawable/abs__ic_ab_back_holo_dark"
+        android:title="Back"
+        android:showAsAction="always"></item>
+
+</menu>
